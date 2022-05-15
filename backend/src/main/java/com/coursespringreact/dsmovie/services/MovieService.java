@@ -33,6 +33,5 @@ public class MovieService {
 		Movie result = repository.findById(id).get();
 		MovieDTO dto = new MovieDTO(result);
 		return dto;
-		
 	}
 }
