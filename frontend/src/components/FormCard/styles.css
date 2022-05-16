@@ -2,6 +2,7 @@
     max-width: 480px;
     margin: 40px auto;
     padding: 20px;
+    display: flex;
 }
 
 .dsmovie-form {

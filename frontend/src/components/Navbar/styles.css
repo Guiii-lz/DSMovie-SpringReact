@@ -9,23 +9,21 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: #ffff;
+    color: #fff;
 }
 
-.dsmovie-nav-content h1{
+.dsmovie-nav-content h1 {
     margin: 0;
     font-weight: 700;
-    font-size: 24pxx;
+    font-size: 24px;
 }
 
-
-
-.dsmovie-contact-container{
+.dsmovie-contact-container {
     display: flex;
     align-items: center;
 }
 
-.dsmovie-contact-link{
+.dsmovie-contact-link {
     margin: 0 0 0 10px;
     font-size: 12px;
 }
